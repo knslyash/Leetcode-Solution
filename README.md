@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knslyash/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/knslyash/Leetcode-Solution/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/knslyash/Leetcode-Solution/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0682-baseball-game) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/knslyash/Leetcode-Solution/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Sorting
 |  |
 | ------- |
