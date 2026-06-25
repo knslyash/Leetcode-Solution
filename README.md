@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/knslyash/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/knslyash/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/knslyash/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/knslyash/Leetcode-Solution/tree/master/0456-132-pattern) |
 ## Interactive
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/knslyash/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/knslyash/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/knslyash/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
