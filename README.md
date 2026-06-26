@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/knslyash/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0394-decode-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
