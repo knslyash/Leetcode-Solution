@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/knslyash/Leetcode-Solution/tree/master/0739-daily-temperatures) |
+| [0897-increasing-order-search-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knslyash/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -143,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/knslyash/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
