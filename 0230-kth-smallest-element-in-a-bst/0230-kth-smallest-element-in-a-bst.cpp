@@ -11,31 +11,22 @@
  */
 class Solution {
 public:
-    vector<int> arr;
-    void givearr(TreeNode* root){
-        queue<TreeNode*> q;
-        if(root==NULL){
-            return ;
+    int ans;
+    void inorder(TreeNode* root,int &l){
+        if(!root){
+            return;
         }
-        q.push(root);
-        while(q.size()){
-            int n=q.size();
-            for(int i=0;i<n;i++){
-                TreeNode* curr=q.front();
-                q.pop();
-                arr.push_back(curr->val);
-                if(curr->left){
-                    q.push(curr->left);
-                }if(curr->right){
-                    q.push(curr->right);
-                }
-            }
+        inorder(root->left,l);
+        l--;
+        if(l==0){
+            ans=root->val;
+            return;
         }
+        inorder(root->right,l);
+
     }
     int kthSmallest(TreeNode* root, int k) {
-        givearr(root);
-        sort(arr.begin(),arr.end());
-        return arr[k-1];
-        
+        inorder(root,k);
+        return ans;
     }
 };
