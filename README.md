@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/knslyash/Leetcode-Solution/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/knslyash/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0456-132-pattern](https://github.com/knslyash/Leetcode-Solution/tree/master/0456-132-pattern) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/knslyash/Leetcode-Solution/tree/master/0015-3sum) |
 | [0143-reorder-list](https://github.com/knslyash/Leetcode-Solution/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/knslyash/Leetcode-Solution/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/knslyash/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
 ## Simulation
 |  |
