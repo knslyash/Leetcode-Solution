@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/knslyash/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knslyash/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
@@ -230,8 +231,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
