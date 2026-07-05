@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/knslyash/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/knslyash/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/knslyash/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/knslyash/Leetcode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/knslyash/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/knslyash/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/knslyash/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/knslyash/Leetcode-Solution/tree/master/0695-max-area-of-island) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/knslyash/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Matrix
 |  |
 | ------- |
@@ -299,4 +302,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/knslyash/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/knslyash/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
