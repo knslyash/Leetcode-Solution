@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/knslyash/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
+| [0752-open-the-lock](https://github.com/knslyash/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/knslyash/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knslyash/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/knslyash/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/knslyash/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/knslyash/Leetcode-Solution/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/knslyash/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1929-concatenation-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/knslyash/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/knslyash/Leetcode-Solution/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/knslyash/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/knslyash/Leetcode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/knslyash/Leetcode-Solution/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/knslyash/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
