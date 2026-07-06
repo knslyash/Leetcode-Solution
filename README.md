@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/knslyash/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/knslyash/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1929-concatenation-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/knslyash/Leetcode-Solution/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/knslyash/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/knslyash/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/knslyash/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/knslyash/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 ## Graph Theory
 |  |
 | ------- |
@@ -317,4 +320,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/knslyash/Leetcode-Solution/tree/master/0542-01-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 <!---LeetCode Topics End-->
