@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/knslyash/Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/knslyash/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/knslyash/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/knslyash/Leetcode-Solution/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/knslyash/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/knslyash/Leetcode-Solution/tree/master/0200-number-of-islands) |
@@ -258,10 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/knslyash/Leetcode-Solution/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/knslyash/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/knslyash/Leetcode-Solution/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/knslyash/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/knslyash/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
