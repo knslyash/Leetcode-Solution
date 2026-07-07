@@ -348,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/knslyash/Leetcode-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/knslyash/Leetcode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
