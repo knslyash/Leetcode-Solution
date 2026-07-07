@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/knslyash/Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/knslyash/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/knslyash/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/knslyash/Leetcode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/knslyash/Leetcode-Solution/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/knslyash/Leetcode-Solution/tree/master/0130-surrounded-regions) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/knslyash/Leetcode-Solution/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/knslyash/Leetcode-Solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/knslyash/Leetcode-Solution/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0113-path-sum-ii) |
