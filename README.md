@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/knslyash/Leetcode-Solution/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/knslyash/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/knslyash/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/knslyash/Leetcode-Solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/knslyash/Leetcode-Solution/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/knslyash/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/knslyash/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/knslyash/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Search Tree
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/knslyash/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/knslyash/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 ## Topological Sort
