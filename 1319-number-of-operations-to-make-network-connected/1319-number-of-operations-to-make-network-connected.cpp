@@ -1,40 +1,39 @@
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>>& adj, vector<int>& vis) {
-        vis[node] = 1;
-
-        for (int nei : adj[node]) {
-            if (!vis[nei]) {
-                dfs(nei, adj, vis);
-            }
+    vector<int> pa,rank;
+    int ex=0;
+    int find(int x){
+        if(pa[x]==x) return x;
+        return pa[x]=find(pa[x]);
+    }
+    void unionf(int u,int v){
+        int pu=find(u);
+        int pv=find(v);
+        if(pu==pv){
+            ex++;
+            return;}
+        if(rank[pv]>rank[pu]){
+            pa[pu]=pv;
+        }
+        else if(rank[pu]>rank[pv]) pa[pv]=pu;
+        else{
+            pa[pv]=pu;
+            rank[pu]++;
         }
     }
-
     int makeConnected(int n, vector<vector<int>>& connections) {
-        
-        if (connections.size() < n - 1)
-            return -1;
-
-        vector<vector<int>> adj(n);
-
-        for (auto &edge : connections) {
-            int u = edge[0];
-            int v = edge[1];
-
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+        rank.resize(n,0);
+        pa.resize(n);
+        for(int i=0;i<n;i++){
+            pa[i]=i;
         }
-
-        vector<int> vis(n, 0);
-        int components = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
-                components++;
-                dfs(i, adj, vis);
-            }
+        for(auto e:connections){
+            unionf(e[0],e[1]);
         }
- 
-        return components - 1;
+        int comp=0;
+        for(int i=0;i<n;i++){
+            if(find(i)==i) comp++;
+        }
+        return (ex>=comp-1)?comp-1:-1;
     }
 };
