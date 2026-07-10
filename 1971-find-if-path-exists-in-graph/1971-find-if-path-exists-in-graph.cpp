@@ -1,34 +1,33 @@
 class Solution {
 public:
-    bool dfs(int node, int destination, vector<vector<int>>& adj, vector<int>& vis) {
-        if (node == destination)
-            return true;
-
-        vis[node] = 1;
-
-        for (int nei : adj[node]) {
-            if (!vis[nei]) {
-                if (dfs(nei, destination, adj, vis))
-                    return true;
-            }
-        }
-
-        return false;
+    vector<int> pa,rank;
+    int find(int x){
+        if(pa[x]==x) return x;
+        return pa[x]=find(pa[x]);
     }
-
-    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        vector<vector<int>> adj(n);
-
-        for (auto &edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+    void unionf(int u,int v){
+        int pu=find(u);
+        int pv=find(v);
+        if(pu==pv) return;
+        if(rank[pv]>rank[pu]){
+            pa[pu]=pv;
         }
-
-        vector<int> vis(n, 0);
-
-        return dfs(source, destination, adj, vis);
+        else if(rank[pu]>rank[pv]) pa[pv]=pu;
+        else{
+            pa[pv]=pu;
+            rank[pu]++;
+        }
+    }
+    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+        vector<int> adj(edges.size());
+        pa.resize(n);
+        rank.resize(n,0);
+        for(int i=0;i<n;i++){
+            pa[i]=i;
+        }
+        for(auto edge:edges){
+            unionf(edge[0],edge[1]);
+        }
+        return find(source)==find(destination);
     }
 };
