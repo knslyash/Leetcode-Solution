@@ -1,25 +1,47 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& nums,vector<int>& vis,int city){
-        vis[city]=1;
-        for(int j=0;j<nums.size();j++){
-            if(nums[city][j]==1 && vis[j]!=1){
-                dfs(nums,vis,j);
-            }
+    vector<int> rank,pa;
+    int find(int x){
+        if(pa[x]==x){
+            return x;
+        }
+        return pa[x]=find(pa[x]);
+    }
+    void unionf(int u,int v){
+        int pu=find(u);
+        int pv=find(v);
+        if(pu==pv) return ;
+        if(rank[pu]>rank[pv]){
+            pa[pv]=pu;
+        }
+        else if(rank[pv]>rank[pu]){
+            pa[pu]=pv;
+        }
+        else{
+            pa[pv]=pu;
+            rank[pu]++;
         }
     }
-    int findCircleNum(vector<vector<int>>& isConnected) {
-         int n = isConnected.size();
-        vector<int> vis(n, 0);
-        int provinces = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
-                provinces++;
-                dfs(isConnected, vis, i);
-            }
+    int findCircleNum(vector<vector<int>>& i) {
+        pa.resize(i.size());
+        rank.resize(i.size(),0);
+        for(int k=0;k<i.size();k++){
+                pa[k]=k;
         }
+        for(int k=0;k<i.size();k++){
+            for(int j=k+1;j<i.size();j++){
+                if(i[k][j]==1){
+                    unionf(k,j);
+                }
+            }
+                
+        }
+        int ans=0;
+        for(int k=0;k<i.size();k++){
+            if(find(k)==k) ans++;
+        }
+    return ans;
 
-        return provinces;
+        
     }
 };
