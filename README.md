@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/knslyash/Leetcode-Solution/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
+| [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/knslyash/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/knslyash/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/knslyash/Leetcode-Solution/tree/master/0456-132-pattern) |
+| [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 ## Interactive
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/knslyash/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/knslyash/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/knslyash/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/knslyash/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/knslyash/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/knslyash/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0990-satisfiability-of-equality-equations](https://github.com/knslyash/Leetcode-Solution/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/knslyash/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/knslyash/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/knslyash/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
+| [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -380,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/knslyash/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
