@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/knslyash/Leetcode-Solution/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
+| [1514-path-with-maximum-probability](https://github.com/knslyash/Leetcode-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/knslyash/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0990-satisfiability-of-equality-equations](https://github.com/knslyash/Leetcode-Solution/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/knslyash/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1514-path-with-maximum-probability](https://github.com/knslyash/Leetcode-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/knslyash/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
@@ -386,9 +388,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/knslyash/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/knslyash/Leetcode-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/knslyash/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/knslyash/Leetcode-Solution/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
