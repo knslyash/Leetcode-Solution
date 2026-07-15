@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/knslyash/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0606-construct-string-from-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
+| [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/knslyash/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/knslyash/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/knslyash/Leetcode-Solution/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/knslyash/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0682-baseball-game) |
+| [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/knslyash/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/knslyash/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/knslyash/Leetcode-Solution/tree/master/0733-flood-fill) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/knslyash/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/knslyash/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
+| [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/knslyash/Leetcode-Solution/tree/master/0721-accounts-merge) |
 ## Simulation
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/knslyash/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/knslyash/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
+| [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/knslyash/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/knslyash/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/knslyash/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/knslyash/Leetcode-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -400,4 +405,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/knslyash/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
