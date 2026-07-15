@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/knslyash/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/knslyash/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/knslyash/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/knslyash/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/knslyash/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/knslyash/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/knslyash/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/knslyash/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/knslyash/Leetcode-Solution/tree/master/0743-network-delay-time) |
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/knslyash/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/knslyash/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
