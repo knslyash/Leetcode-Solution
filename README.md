@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/knslyash/Leetcode-Solution/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
+| [1260-shift-2d-grid](https://github.com/knslyash/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1514-path-with-maximum-probability](https://github.com/knslyash/Leetcode-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/knslyash/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0682-baseball-game) |
+| [1260-shift-2d-grid](https://github.com/knslyash/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/knslyash/Leetcode-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/knslyash/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
+| [1260-shift-2d-grid](https://github.com/knslyash/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
