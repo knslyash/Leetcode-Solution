@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/knslyash/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/knslyash/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/knslyash/Leetcode-Solution/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/knslyash/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/knslyash/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/knslyash/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/knslyash/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/knslyash/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/knslyash/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
