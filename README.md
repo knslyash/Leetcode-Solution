@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/knslyash/Leetcode-Solution/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/knslyash/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/knslyash/Leetcode-Solution/tree/master/0695-max-area-of-island) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/knslyash/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/knslyash/Leetcode-Solution/tree/master/0402-remove-k-digits) |
+| [0605-can-place-flowers](https://github.com/knslyash/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/knslyash/Leetcode-Solution/tree/master/0860-lemonade-change) |
 ## Randomized
 |  |
