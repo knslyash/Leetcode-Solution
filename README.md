@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/knslyash/Leetcode-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/knslyash/Leetcode-Solution/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
 |  |
 | ------- |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/knslyash/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/knslyash/Leetcode-Solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/knslyash/Leetcode-Solution/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/knslyash/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/knslyash/Leetcode-Solution/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Geometry
 |  |
 | ------- |
