@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/knslyash/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/knslyash/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/knslyash/Leetcode-Solution/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/knslyash/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/knslyash/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/knslyash/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/knslyash/Leetcode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/knslyash/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/knslyash/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/knslyash/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/knslyash/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/knslyash/Leetcode-Solution/tree/master/0860-lemonade-change) |
