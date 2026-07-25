@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/knslyash/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/knslyash/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/knslyash/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/knslyash/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/knslyash/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/knslyash/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/knslyash/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/knslyash/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/knslyash/Leetcode-Solution/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/knslyash/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/knslyash/Leetcode-Solution/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/knslyash/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/knslyash/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
