@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/knslyash/Leetcode-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/knslyash/Leetcode-Solution/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/knslyash/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/knslyash/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/knslyash/Leetcode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -489,11 +491,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/knslyash/Leetcode-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/knslyash/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/knslyash/Leetcode-Solution/tree/master/1514-path-with-maximum-probability) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Number Theory
 |  |
 | ------- |
