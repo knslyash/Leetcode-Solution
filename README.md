@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/knslyash/Leetcode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0456-132-pattern](https://github.com/knslyash/Leetcode-Solution/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/knslyash/Leetcode-Solution/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/knslyash/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/knslyash/Leetcode-Solution/tree/master/0542-01-matrix) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/knslyash/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/knslyash/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/knslyash/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/knslyash/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/knslyash/Leetcode-Solution/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/knslyash/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/knslyash/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/knslyash/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/knslyash/Leetcode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/knslyash/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0973-k-closest-points-to-origin](https://github.com/knslyash/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/knslyash/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -586,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/knslyash/Leetcode-Solution/tree/master/0139-word-break) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/knslyash/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
