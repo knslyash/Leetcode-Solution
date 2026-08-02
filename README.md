@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/knslyash/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/knslyash/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [0860-lemonade-change](https://github.com/knslyash/Leetcode-Solution/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/knslyash/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [0990-satisfiability-of-equality-equations](https://github.com/knslyash/Leetcode-Solution/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/knslyash/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/knslyash/Leetcode-Solution/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 ## Topological Sort
 |  |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/knslyash/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/knslyash/Leetcode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/knslyash/Leetcode-Solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/knslyash/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/knslyash/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -602,4 +605,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/knslyash/Leetcode-Solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
