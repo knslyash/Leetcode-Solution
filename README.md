@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/knslyash/Leetcode-Solution/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/knslyash/Leetcode-Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/knslyash/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/knslyash/Leetcode-Solution/tree/master/0316-remove-duplicate-letters) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/knslyash/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/knslyash/Leetcode-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/knslyash/Leetcode-Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/knslyash/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/knslyash/Leetcode-Solution/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/knslyash/Leetcode-Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/knslyash/Leetcode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 ## Iterator
 |  |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/knslyash/Leetcode-Solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/knslyash/Leetcode-Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
