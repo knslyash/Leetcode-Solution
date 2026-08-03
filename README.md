@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/knslyash/Leetcode-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/knslyash/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0606-construct-string-from-binary-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0606-construct-string-from-binary-tree) |
+| [0649-dota2-senate](https://github.com/knslyash/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/knslyash/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/knslyash/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/knslyash/Leetcode-Solution/tree/master/0752-open-the-lock) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/knslyash/Leetcode-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/knslyash/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/knslyash/Leetcode-Solution/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/knslyash/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/knslyash/Leetcode-Solution/tree/master/0860-lemonade-change) |
 ## Randomized
 |  |
@@ -606,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/knslyash/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0877-stone-game) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/knslyash/Leetcode-Solution/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
