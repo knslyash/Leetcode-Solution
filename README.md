@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/knslyash/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/knslyash/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
+| [1406-stone-game-iii](https://github.com/knslyash/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/knslyash/Leetcode-Solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1514-path-with-maximum-probability](https://github.com/knslyash/Leetcode-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/knslyash/Leetcode-Solution/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/knslyash/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
+| [1406-stone-game-iii](https://github.com/knslyash/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/knslyash/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/knslyash/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1406-stone-game-iii](https://github.com/knslyash/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/knslyash/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/knslyash/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -615,8 +618,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/knslyash/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/knslyash/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/knslyash/Leetcode-Solution/tree/master/0649-dota2-senate) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/knslyash/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/knslyash/Leetcode-Solution/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
