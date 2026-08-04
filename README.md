@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/knslyash/Leetcode-Solution/tree/master/0456-132-pattern) |
+| [2336-smallest-number-in-infinite-set](https://github.com/knslyash/Leetcode-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Two Pointers
 |  |
 | ------- |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/knslyash/Leetcode-Solution/tree/master/0752-open-the-lock) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/knslyash/Leetcode-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/knslyash/Leetcode-Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/knslyash/Leetcode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [2336-smallest-number-in-infinite-set](https://github.com/knslyash/Leetcode-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Iterator
 |  |
 | ------- |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/knslyash/Leetcode-Solution/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/knslyash/Leetcode-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
