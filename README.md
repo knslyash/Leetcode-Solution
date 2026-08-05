@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/knslyash/Leetcode-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/knslyash/Leetcode-Solution/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/knslyash/Leetcode-Solution/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/knslyash/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/knslyash/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/knslyash/Leetcode-Solution/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/knslyash/Leetcode-Solution/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Backtracking
 |  |
 | ------- |
