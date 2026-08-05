@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/knslyash/Leetcode-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/knslyash/Leetcode-Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/knslyash/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/knslyash/Leetcode-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/knslyash/Leetcode-Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/knslyash/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/knslyash/Leetcode-Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/knslyash/Leetcode-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/knslyash/Leetcode-Solution/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/knslyash/Leetcode-Solution/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
