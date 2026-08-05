@@ -1,34 +1,37 @@
 class Solution {
 public:
-    void dfs(int u, vector<vector<int>>& adj, vector<int>& vis) {
-        vis[u] = 1;
-        for (int v : adj[u]) {
-            if (!vis[v])
-                dfs(v, adj, vis);
+    void dfs(vector<vector<int>>& adj,int k,vector<int>& vis){
+        vis[k]=1;
+        for(int x:adj[k]){
+            if(!vis[x]){
+                dfs(adj,x,vis);
+            }
         }
     }
-
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
         vector<vector<int>> adj(n);
-        for (auto &e : invocations) {
-            adj[e[0]].push_back(e[1]);
-        }
-        vector<int> vis(n, 0);
-        dfs(k, adj, vis);
-        for (auto &e : invocations) {
-            if (!vis[e[0]] && vis[e[1]]) {
-                vector<int> ans;
-                for (int i = 0; i < n; i++)
+        vector<int> vis(n);
+        for(auto& edge: invocations){
+            int u=edge[0];
+            int v=edge[1];
+            adj[u].push_back(v);
+        } 
+        dfs(adj,k,vis);
+        vector<int> ans;
+        for(auto edge: invocations){
+            if(!vis[edge[0]] && vis[edge[1]]){
+                for(int i=0;i<n;i++){
                     ans.push_back(i);
+                }
                 return ans;
             }
         }
-        vector<int> ans;
-        for (int i = 0; i < n; i++) {
-            if (!vis[i])
-                ans.push_back(i);
-        }
 
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                ans.push_back(i);
+            }
+        }
         return ans;
     }
 };
