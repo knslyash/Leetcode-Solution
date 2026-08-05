@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/knslyash/Leetcode-Solution/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/knslyash/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/knslyash/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/knslyash/Leetcode-Solution/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/knslyash/Leetcode-Solution/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/knslyash/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/knslyash/Leetcode-Solution/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/knslyash/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/knslyash/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/knslyash/Leetcode-Solution/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0518-coin-change-ii) |
