@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/knslyash/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0897-increasing-order-search-tree) |
+| [0901-online-stock-span](https://github.com/knslyash/Leetcode-Solution/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/knslyash/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/knslyash/Leetcode-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/knslyash/Leetcode-Solution/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/knslyash/Leetcode-Solution/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/knslyash/Leetcode-Solution/tree/master/0901-online-stock-span) |
 ## Ordered Set
 |  |
 | ------- |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/knslyash/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/knslyash/Leetcode-Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/knslyash/Leetcode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
+| [0901-online-stock-span](https://github.com/knslyash/Leetcode-Solution/tree/master/0901-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/knslyash/Leetcode-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Iterator
 |  |
@@ -674,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/knslyash/Leetcode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/knslyash/Leetcode-Solution/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
