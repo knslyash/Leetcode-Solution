@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/knslyash/Leetcode-Solution/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/knslyash/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/knslyash/Leetcode-Solution/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/knslyash/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/knslyash/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/knslyash/Leetcode-Solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/knslyash/Leetcode-Solution/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/knslyash/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0877-stone-game) |
 | [1162-as-far-from-land-as-possible](https://github.com/knslyash/Leetcode-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1406-stone-game-iii](https://github.com/knslyash/Leetcode-Solution/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/knslyash/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Topological Sort
 |  |
 | ------- |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/knslyash/Leetcode-Solution/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/knslyash/Leetcode-Solution/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/knslyash/Leetcode-Solution/tree/master/0860-lemonade-change) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/knslyash/Leetcode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Randomized
 |  |
