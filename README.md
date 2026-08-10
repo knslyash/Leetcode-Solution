@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/knslyash/Leetcode-Solution/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/knslyash/Leetcode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/knslyash/Leetcode-Solution/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/knslyash/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/knslyash/Leetcode-Solution/tree/master/2336-smallest-number-in-infinite-set) |
 ## Iterator
 |  |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/knslyash/Leetcode-Solution/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/knslyash/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 ## Minimax
 |  |
 | ------- |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/knslyash/Leetcode-Solution/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/knslyash/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
