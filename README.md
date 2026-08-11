@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/knslyash/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/knslyash/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/knslyash/Leetcode-Solution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/knslyash/Leetcode-Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/knslyash/Leetcode-Solution/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/knslyash/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
