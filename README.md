@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/knslyash/Leetcode-Solution/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/knslyash/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/knslyash/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/knslyash/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0260-single-number-iii](https://github.com/knslyash/Leetcode-Solution/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/knslyash/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/knslyash/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/knslyash/Leetcode-Solution/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/knslyash/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/knslyash/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/knslyash/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/knslyash/Leetcode-Solution/tree/master/0392-is-subsequence) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/knslyash/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/knslyash/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/knslyash/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/knslyash/Leetcode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
