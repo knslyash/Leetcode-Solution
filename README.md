@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/knslyash/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/knslyash/Leetcode-Solution/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/knslyash/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/knslyash/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/knslyash/Leetcode-Solution/tree/master/0139-word-break) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/knslyash/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/knslyash/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/knslyash/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/knslyash/Leetcode-Solution/tree/master/0227-basic-calculator-ii) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/knslyash/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/knslyash/Leetcode-Solution/tree/master/0139-word-break) |
 ## Game Theory
 |  |
